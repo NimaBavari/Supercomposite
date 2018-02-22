@@ -1,3 +1,20 @@
+##########################################################
+# @app:         Supercomposite
+# 
+# @author:      Nima Bavari <nima.bavari@gmail.com>
+#               https://github.com/NimaBavari
+#
+# @description: Finds the most highly supercomposite
+#               number in any given neighbourhood of
+#               any given number, i.e, given a positive
+#               integer n and a real 0 < c < 1, finds
+#               N in (1 +/- c) * n for which d(N) / N
+#               is maximum, where d(N) denotes the number
+#               of positive integer divisors of N.
+#
+# @date:        Feb 21, 2018 Wednesday
+##########################################################
+
 import math
 
 
